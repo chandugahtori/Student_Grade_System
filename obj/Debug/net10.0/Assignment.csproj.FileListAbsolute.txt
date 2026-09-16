@@ -1,0 +1,14 @@
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/bin/Debug/net10.0/Assignment
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/bin/Debug/net10.0/Assignment.deps.json
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/bin/Debug/net10.0/Assignment.runtimeconfig.json
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/bin/Debug/net10.0/Assignment.dll
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/bin/Debug/net10.0/Assignment.pdb
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/Assignment.GeneratedMSBuildEditorConfig.editorconfig
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/Assignment.AssemblyInfoInputs.cache
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/Assignment.AssemblyInfo.cs
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/Assignment.csproj.CoreCompileInputs.cache
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/Assignment.dll
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/refint/Assignment.dll
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/Assignment.pdb
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/Assignment.genruntimeconfig.cache
+/Users/anshugahtori/Desktop/Dot_Net/Assignment/obj/Debug/net10.0/ref/Assignment.dll
